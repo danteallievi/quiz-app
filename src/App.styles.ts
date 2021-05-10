@@ -35,4 +35,7 @@ export const Wrapper = styled.div`
     font-size: 2rem;
     margin: 0;
   }
+
+  h1 {
+  }
 `;
